@@ -1,0 +1,14 @@
+/Users/vijaykumarpatel/Projects/practice/api/burgerapi/burgerapi/bin/Debug/netcoreapp2.1/burgerapi.deps.json
+/Users/vijaykumarpatel/Projects/practice/api/burgerapi/burgerapi/bin/Debug/netcoreapp2.1/burgerapi.runtimeconfig.json
+/Users/vijaykumarpatel/Projects/practice/api/burgerapi/burgerapi/bin/Debug/netcoreapp2.1/burgerapi.runtimeconfig.dev.json
+/Users/vijaykumarpatel/Projects/practice/api/burgerapi/burgerapi/bin/Debug/netcoreapp2.1/burgerapi.dll
+/Users/vijaykumarpatel/Projects/practice/api/burgerapi/burgerapi/bin/Debug/netcoreapp2.1/burgerapi.pdb
+/Users/vijaykumarpatel/Projects/practice/api/burgerapi/burgerapi/obj/Debug/netcoreapp2.1/burgerapi.csprojAssemblyReference.cache
+/Users/vijaykumarpatel/Projects/practice/api/burgerapi/burgerapi/obj/Debug/netcoreapp2.1/burgerapi.csproj.CoreCompileInputs.cache
+/Users/vijaykumarpatel/Projects/practice/api/burgerapi/burgerapi/obj/Debug/netcoreapp2.1/burgerapi.RazorAssemblyInfo.cache
+/Users/vijaykumarpatel/Projects/practice/api/burgerapi/burgerapi/obj/Debug/netcoreapp2.1/burgerapi.RazorAssemblyInfo.cs
+/Users/vijaykumarpatel/Projects/practice/api/burgerapi/burgerapi/obj/Debug/netcoreapp2.1/burgerapi.AssemblyInfoInputs.cache
+/Users/vijaykumarpatel/Projects/practice/api/burgerapi/burgerapi/obj/Debug/netcoreapp2.1/burgerapi.AssemblyInfo.cs
+/Users/vijaykumarpatel/Projects/practice/api/burgerapi/burgerapi/obj/Debug/netcoreapp2.1/burgerapi.RazorTargetAssemblyInfo.cache
+/Users/vijaykumarpatel/Projects/practice/api/burgerapi/burgerapi/obj/Debug/netcoreapp2.1/burgerapi.dll
+/Users/vijaykumarpatel/Projects/practice/api/burgerapi/burgerapi/obj/Debug/netcoreapp2.1/burgerapi.pdb
